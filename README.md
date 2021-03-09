@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello World! 👋
 
-<!--
-**stergiosbamp/stergiosbamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who Am I
+I'm Stergios and I'm a Software Engineer 💻
 
-Here are some ideas to get you started:
+### Education
+I hold a BSc in Computer Science from Aristotle University of Thessaloniki
+and I'm currently pursuing a MSc in Data and Web Science 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Coding
+My interests are in back-end development, ideally utilizing and developing 
+Machine Learning and Deep Learning solutions.
+
+I like coding in Python 🐍 and Java ☕ in a Docker micro-world 🐳.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stergiosbamp)](https://github.com/anuraghazra/github-readme-stats)
